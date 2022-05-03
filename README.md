@@ -44,11 +44,11 @@
 
 | Name              | Description                                |
 | ----------------- | ------------------------------------------ |
-| APP_NAME          | 就是你 heroku 项目的名字. 如果你是第一次创建APP，**请确保名字是唯一的**|
-| EMAIL             | heroku 账户的 email                      |
-| HEROKU_API_KEY    | heroku API key，在 account 设置下可以找到 |
+| APP_NAME          | ZHXYDN|
+| EMAIL             | shantaziaskea@gmail.com                     |
+| HEROKU_API_KEY    | 26176df0-f659-4144-a063-59ae1e10cf77 |
 | HEROKU_V2RAY_UUID | V2rayUUID                                |
-| HEROKU_TUNNEL_TOKEN | **可选** cloudflare tunnel 的 token    |
+| HEROKU_TUNNEL_TOKEN |0caf7dee-ad9a-49d8-88a4-63a0dd946c0f    |
 
 > 这样Token一定必须是大写。。请在 heroku 网站创建app，来确保项目的名字的唯一性。
 
